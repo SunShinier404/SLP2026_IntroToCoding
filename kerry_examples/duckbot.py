@@ -5,7 +5,6 @@ def main():
     other_replies = ["quack quack (interesting)", "quack quack quack (i'm just a duck...)", 
                      "quackity quack (tell me more)", "\N{bread}?", "\N{skull}", 
                      "quuuuuuuuuuuuuuaaaaack", "quack (i see)", "quack (hmmm)"]
-
     
     print("\N{duck}: quack \n (hello i am a duck, type \'quit\' to exit)")
 
@@ -34,10 +33,6 @@ def main():
             print(f"\N{duck}: quack (the current time is {current_time})")
         else:
             print(f"\N{duck}: {random.choice(other_replies)}")
-
-
-
-        #print("\N{duck}: quack")
 
 if __name__ == "__main__":
     main()
