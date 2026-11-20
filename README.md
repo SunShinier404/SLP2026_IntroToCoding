@@ -28,14 +28,4 @@ Ensure you have Python installed.
 ## Demo Day Slides
 [Link](https://docs.google.com/presentation/d/1P41CxROQwdiAf5uVmy4AoReJCI966FfK5S_2H4t1_1w/edit?usp=sharing)
 
-Thank you to sheCodes Internal Vice President Sarah Huynh for facilitating 2026 SLPs!
-
-## How to Run
-Ensure you have Python installed.
-1. Clone the repository, and navigate to the desired program in the terminal.
-2. Type `python filename.py`, replacing filename with the corresponding program file name.
-
-## Demo Day Slides
-[Link]([https://example.com](https://docs.google.com/presentation/d/1P41CxROQwdiAf5uVmy4AoReJCI966FfK5S_2H4t1_1w/edit?usp=sharing))
-
-Thank you to sheCodes Internal Vice President Sarah Huynh for facilitating 2026 SLPs!
+Thank you to sheCodes Internal Vice President Sarah Huynh for organizing 2026 SLPs!
